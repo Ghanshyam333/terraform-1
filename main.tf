@@ -7,7 +7,7 @@ terraform {
   }
 
 }
-
+# this is a testt 
 provider "google" {
   credentials = file("C:\Users\doyenltp5050\Downloads\sonic-stratum-361012-5f39ed4a5227.json")
 
