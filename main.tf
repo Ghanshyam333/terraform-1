@@ -1,3 +1,4 @@
+
 terraform {
   required_providers {
     google = {
@@ -5,6 +6,7 @@ terraform {
       version = "3.5.0"
     }
   }
+
 }
 
 provider "google" {
